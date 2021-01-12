@@ -1,0 +1,15 @@
+<p>Soil-less farming is the ground breaking technology that is revolutionizing agriculture. It allows 95% less water consumption, 50% less land and twice the output. 
+					<br/><br/> However, for it to spread beyond First world countries more awareness and education is necessary. Hence, a fully automated home hydroponics system for budding interest and spreading knowledge about the promises of hydroponics.
+					<br/><br/> The image shown above is version 2.0. The first prototype is based on an arduino to provide Online monitoring of metrics including pH, Electrical conductivity, Temperature and humidity. It also automates the process of watering the plants and providing them with necessary light.
+					</p>
+
+
+<p>To keep my curious mind busy I took this project during the lockdown. After failing successfully innumerous times, I was able to achieve deep understanding, clarity in my concepts and a wide and bright smile despite an only satisfactory flight stability.
+					<br/><br/> The Drone is based on ROS noetic running on a Raspberry Pi and communicates with an arduino using Rosserial. The drone houses a camera for computer vision and object detection using OpenCV and TensorFlow. The control is through a PID controller for stability.
+
+
+
+
+  <p>As a lover of Billiards and statistics, I decided to make a automatic billiards scoring and ball tracking system.
+					<br/><br/> Using segmentation and contouring in OpenCV, the software detects the balls and their colors to calculate score at end of each turn. It also features a VGG face classifier to recognise Players and add to their long term statistics. The detection algorithm is robust enough to work in varied lighting conditions.
+					<br/><br/> Upcoming- Best shots highlights and shot prediction
