@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Mechanical designer and Manufacturing co-op at WEICCO <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2020 – December 2020</span><br/><h5>HVAC accessories, expansion joints and vibration isolators manufacturer</h5></h2>
+                        <h2>Mechanical designer and Manufacturing co-op at WEICCO <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2020 – December 2020</span><br/><h5>HVAC accessories, expansion joints and vibration isolators manufacturer</h5></h2>
                         <p>•	Designed and built a hydrostatic pressure fatigue testing machine for expansion joints according to EJMA standards
                         <br/>•	Assisted in designing and manufacturing of HVAC components including expansion joints, vibration isolators and pipe guides
                         <br/>•	Performed various quality tests including tensile, impact and fire retardation according to relevant UL, ISO or ASTM standards to comply with customers’ demands
